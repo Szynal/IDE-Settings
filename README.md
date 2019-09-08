@@ -35,3 +35,19 @@ Tools -> Environment -> Fonts and Colors -> Look for `Semantic *` in the "Displa
 
 
 <img width="441" alt="SemanticColor" src="https://user-images.githubusercontent.com/29870233/64491404-83223680-d268-11e9-9f4e-deefd9b02ff5.png">
+
+
+# ReSharper
+
+ReSharper is a it’s a plug-in for Visual Studio that runs on Windows, Mac, and Linux.
+
+The biggest advantages of using ReSharper : 
+
+- Comply with coding standards
+- Eliminate errors (Quick-fixes) 
+- Safely change the code
+- It works much better than in VS ^^.
+
+You can read more information on the official website:  www.jetbrains.com/resharper
+
+
