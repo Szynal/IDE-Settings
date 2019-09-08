@@ -22,7 +22,7 @@ Tools -> Environment -> Fonts and Colors -> Look for `Semantic *` in the "Displa
 * Field - ![#cc9e02](https://placehold.it/15/cc9e02/000000?text=+) `#cc9e02`
 * Local - ![#d3cfcf](https://placehold.it/15/d3cfcf/000000?text=+) `#d3cfcf`
 * Local Function - ![#d3cfcf](https://placehold.it/d3cfcf/000000?text=+) `#d3cfcf`
-* Namespace - ![#3ccd32](https://placehold.it/3ccd32/000000?text=+) `#3ccd32`
+* Namespace - ![#32cd3a](https://placehold.it/32cd3a/000000?text=+) `#32cd3a`
 * Normal Method  - ![#ffff80](https://placehold.it/ffff80/000000?text=+) `#ffff80`
 * Parameter  - ![#708090](https://placehold.it/#708090/000000?text=+) `#708090`
 * Property  - ![#c7b9d2](https://placehold.it/#c7b9d2/000000?text=+) `#c7b9d2`
