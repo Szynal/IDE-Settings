@@ -14,4 +14,16 @@ A Visual Studio 2017 & 2019 editor extension for semantic syntax highlighting.
 To change the colors use the regular Visual Studio "Font and Colors" Options. 
 Tools -> Environment -> Fonts and Colors -> Look for `Semantic *` in the "Display items".
 
-* Semantic Constructor - ![#5afeee](https://placehold.it/15/f03c15/000000?text=+) `#5afeee`
+* Constructor - ![#5afeee](https://placehold.it/15/5afeee/000000?text=+) `#5afeee`
+* Enum Field - ![#ebf0c8](https://placehold.it/15/ebf0c8/000000?text=+) `#ebf0c8`
+* Event - ![#ffcaff](https://placehold.it/15/ffcaff/000000?text=+) `#ffcaff`
+* Event - ![#ffcaff](https://placehold.it/15/ffcaff/000000?text=+) `#ffcaff`
+* Extension Method - ![#fe92fe](https://placehold.it/15/fe92fe/000000?text=+) `#fe92fe`
+* Field - ![#cc9e02](https://placehold.it/15/cc9e02/000000?text=+) `#cc9e02`
+* Local - ![#d3cfcf](https://placehold.it/15/d3cfcf/000000?text=+) `#d3cfcf`
+* Local Function - ![#d1d1d1](https://placehold.it/15d1d1d1/000000?text=+) `#d1d1d1`
+* Namespace - ![#3ccd32](https://placehold.it/3ccd32/000000?text=+) `#3ccd32`
+* Normal Method  - ![#ffff80](https://placehold.it/ffff80/000000?text=+) `#ffff80`
+* Parameter  - ![#708090](https://placehold.it/#708090/000000?text=+) `#708090`
+* Property  - ![#c7b9d2](https://placehold.it/#c7b9d2/000000?text=+) `#c7b9d2`
+* Static Method - ![#e97073](https://placehold.it/15/e97073/000000?text=+) `#e97073`
