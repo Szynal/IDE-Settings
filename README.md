@@ -50,4 +50,18 @@ The biggest advantages of using ReSharper :
 
 You can read more information on the official website:  www.jetbrains.com/resharper
 
+Importing settings:
+
+1. In the Settings Layers dialog, select a setting layer where you want to import settings.
+
+2. Do one of the following:
+
+- On the toolbar, click Import/Export Settings ThemedIcon ImportExportLayer Screen Gray . Depending on the location of the file to be imported, click Import from File or Import from URL.
+
+- Right-click the layer. Click Import from in the context menu, then click Import from File or Import from URL.
+
+3. Specify location of the file to be imported. Pay attention, that if you have chosen to import from URL, the path to the file should be specified in the UNC format.
+
+4. In the Import from File dialog that opens, specify group(s) of settings to be imported and click OK.
+
 
