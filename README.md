@@ -3,6 +3,16 @@
 "IDE-Settings" Is a repository to store my custom settings for Visual Studio, Resharper and
 Semantic Syntax Colorizer. I use them to programing in C # on the Unity engine.
  
+# Importing settings
+
+To import IDE configuration settings:
+
+- Download the Semantic Syntax Colorizer extension
+- In Visual Studio, click Tools > Import and Export Settings.
+- Click Import selected environment settings and then click Next.
+- Specify whether you want to save the current settings to a file and click Next.
+- Click Browse to navigate to and select the .vssettings file that contains the settings you want to import, then click Open.
+Ensure the settings you want to import are selected and then click Finish.
 
 
 # Semantic Syntax Colorizer
