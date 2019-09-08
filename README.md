@@ -17,7 +17,7 @@ Ensure the settings you want to import are selected and then click ***Finish***.
 A Visual Studio 2017 & 2019 editor extension for semantic syntax highlighting.
 
 To change the colors use the regular Visual Studio "Font and Colors" Options. 
-Tools -> Environment -> Fonts and Colors -> Look for `Semantic *` in the "Display items".
+***Tools*** -> ***Environment*** -> ***Fonts and Colors*** -> Look for `Semantic *` in the "Display items".
 
 * Constructor - ![#5afeee](https://placehold.it/15/5afeee/000000?text=+) `#5afeee`
 * Enum Field - ![#ebf0c8](https://placehold.it/15/ebf0c8/000000?text=+) `#ebf0c8`
