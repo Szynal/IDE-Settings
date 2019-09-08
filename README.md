@@ -21,9 +21,9 @@ Tools -> Environment -> Fonts and Colors -> Look for `Semantic *` in the "Displa
 * Extension Method - ![#fe92fe](https://placehold.it/15/fe92fe/000000?text=+) `#fe92fe`
 * Field - ![#cc9e02](https://placehold.it/15/cc9e02/000000?text=+) `#cc9e02`
 * Local - ![#d3cfcf](https://placehold.it/15/d3cfcf/000000?text=+) `#d3cfcf`
-* Local Function - ![#d3cfcf](https://placehold.it/d3cfcf/000000?text=+) `#d3cfcf`
-* Namespace - ![#32cd3a](https://placehold.it/32cd3a/000000?text=+) `#32cd3a`
-* Normal Method  - ![#ffff80](https://placehold.it/ffff80/000000?text=+) `#ffff80`
-* Parameter  - ![#708090](https://placehold.it/#708090/000000?text=+) `#708090`
-* Property  - ![#c7b9d2](https://placehold.it/#c7b9d2/000000?text=+) `#c7b9d2`
+* Local Function - ![#d3cfcf](https://placehold.it/15/d3cfcf/000000?text=+) `#d3cfcf`
+* Namespace - ![#32cd3a](https://placehold.it/15/32cd3a/000000?text=+) `#32cd3a`
+* Normal Method - ![#ffff80](https://placehold.it/15/ffff80/000000?text=+) `#ffff80`
+* Parameter - ![#708090](https://placehold.it/15/708090/000000?text=+) `#708090`
+* Property - ![#c7b9d2](https://placehold.it/15/c7b9d2/000000?text=+) `#c7b9d2`
 * Static Method - ![#e97073](https://placehold.it/15/e97073/000000?text=+) `#e97073`
