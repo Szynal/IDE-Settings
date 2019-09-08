@@ -21,7 +21,7 @@ Tools -> Environment -> Fonts and Colors -> Look for `Semantic *` in the "Displa
 * Extension Method - ![#fe92fe](https://placehold.it/15/fe92fe/000000?text=+) `#fe92fe`
 * Field - ![#cc9e02](https://placehold.it/15/cc9e02/000000?text=+) `#cc9e02`
 * Local - ![#d3cfcf](https://placehold.it/15/d3cfcf/000000?text=+) `#d3cfcf`
-* Local Function - ![#d1d1d1](https://placehold.it/d1d1d1/000000?text=+) `#d1d1d1`
+* Local Function - ![#d3cfcf](https://placehold.it/d3cfcf/000000?text=+) `#d3cfcf`
 * Namespace - ![#3ccd32](https://placehold.it/3ccd32/000000?text=+) `#3ccd32`
 * Normal Method  - ![#ffff80](https://placehold.it/ffff80/000000?text=+) `#ffff80`
 * Parameter  - ![#708090](https://placehold.it/#708090/000000?text=+) `#708090`
