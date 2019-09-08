@@ -1,8 +1,3 @@
-# IDE-Settings
-
-"IDE-Settings" Is a repository to store my custom settings for Visual Studio, Resharper and
-Semantic Syntax Colorizer. I use them to programing in C # on the Unity engine.
- 
 # Importing settings
 
 To import IDE configuration settings:
