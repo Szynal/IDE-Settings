@@ -27,3 +27,6 @@ Tools -> Environment -> Fonts and Colors -> Look for `Semantic *` in the "Displa
 * Parameter - ![#708090](https://placehold.it/15/708090/000000?text=+) `#708090`
 * Property - ![#c7b9d2](https://placehold.it/15/c7b9d2/000000?text=+) `#c7b9d2`
 * Static Method - ![#e97073](https://placehold.it/15/e97073/000000?text=+) `#e97073`
+
+
+<img width="441" alt="SemanticColor" src="https://user-images.githubusercontent.com/29870233/64491404-83223680-d268-11e9-9f4e-deefd9b02ff5.png">
