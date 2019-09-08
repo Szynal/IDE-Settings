@@ -14,4 +14,4 @@ A Visual Studio 2017 & 2019 editor extension for semantic syntax highlighting.
 To change the colors use the regular Visual Studio "Font and Colors" Options. 
 Tools -> Environment -> Fonts and Colors -> Look for `Semantic *` in the "Display items".
 
-* Semantic Constructor - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
+* Semantic Constructor - ![#5afeee](https://placehold.it/15/f03c15/000000?text=+) `#5afeee`
